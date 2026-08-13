@@ -1,0 +1,27 @@
+{
+  "version": 3,
+  "title": "storymapstudproj2",
+  "layers": [
+    {
+      "type": "vector",
+      "renderMode": "tiles",
+      "order": 0,
+      "id": "entwicklungspotential",
+      "name": "Entwicklungspotential",
+      "bbox": [
+        7.500827298299222,
+        51.97243563335961,
+        7.511299281020853,
+        51.97658803970174
+      ],
+      "opacity": 1.0,
+      "tilesUrl": "tiles/entwicklungspotential/{z}/{x}/{y}.png",
+      "minZoom": 0,
+      "maxZoom": 14,
+      "tileSize": 256,
+      "tileCount": 15
+    }
+  ],
+  "story": "story.json",
+  "legend": "legend.json"
+}

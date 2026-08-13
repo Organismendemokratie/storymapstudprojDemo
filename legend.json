@@ -1,0 +1,10 @@
+{
+  "layers": [
+    {
+      "id": "entwicklungspotential",
+      "name": "Entwicklungspotential",
+      "type": "vector",
+      "sld": "sld/entwicklungspotential.sld"
+    }
+  ]
+}

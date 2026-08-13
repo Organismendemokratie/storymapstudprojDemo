@@ -1,0 +1,41 @@
+{
+  "sections": [
+    {
+      "key": "intro",
+      "title": "Einleitung",
+      "body": "Im Fokus des Projekts stehen Rewilding und Vern\u00e4ssung ausgew\u00e4hlter Parkbereiche und umliegender Fl\u00e4chen, die Eigentum der Stiftung sind.",
+      "center": null,
+      "zoom": 12
+    },
+    {
+      "key": "sec:197b6b27b5",
+      "title": "Rewilding",
+      "body": "liegt auf dem heutigen Parkgel\u00e4nde; konzentriert sich vor allem auf stark verbuschte Bereiche, die an das bestehende Damwildgehege grenzen; neuer Zaun w\u00e4re notwendig; \u00dcberlegung: Gehege f\u00fcr Besucher/Spazierg\u00e4nger zug\u00e4nglich machen --> Tore im Zaun...",
+      "center": [
+        7.506155389012784,
+        51.973837285497225
+      ],
+      "zoom": 18
+    },
+    {
+      "key": "sec:1490d19010",
+      "title": "Vern\u00e4ssung 1",
+      "body": "Absch\u00fcssiges, tiefer gelegenes Gel\u00e4nde auf ungef\u00e4hrer H\u00f6he der Gr\u00e4fte; Besitzverh\u00e4ltnisse unklar; Auswirkungen auf dahinter liegende Felder unklar; Wasser nur aus Gr\u00e4ben und H\u00fclsbach nicht ausreichend? Gefahr f\u00fcr Anwohner?",
+      "center": [
+        7.507917407670098,
+        51.97498843876381
+      ],
+      "zoom": 18
+    },
+    {
+      "key": "sec:5b3b2cf2b7",
+      "title": "Vern\u00e4ssung 2",
+      "body": "Direkt am H\u00fclsbach; k\u00f6nnte gut von Bibern/Menschen aufgestaut werden, ohne dass das Wasser sofort woanders abflie\u00dft; Senke; hohe Stickstoffwerte vermutet, sollen nicht durch \u00dcberstauung/Erosion in Park eingetragen werden! Radweg betroffen, m\u00fcsste umgelegt werden; Nutzung als Parkplatz f\u00fcr Ausstellungen/Messen/Veranstaltungen der Burg; direkt neben der Putenfarm gelegen",
+      "center": [
+        7.502234867253017,
+        51.97471275703964
+      ],
+      "zoom": 18
+    }
+  ]
+}
